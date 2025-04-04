@@ -1,0 +1,3 @@
+SELECT CAST (milliseconds AS varchar),
+       CAST (bytes AS varchar)
+FROM track;
