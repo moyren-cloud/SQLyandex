@@ -1,0 +1,2 @@
+SELECT CAST (birth_date AS date)
+FROM staff;
